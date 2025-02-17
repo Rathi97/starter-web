@@ -7,7 +7,10 @@ How diff parts of git repo and commands work
 ## Purpose
 
 Sample website with plenty of files for demos
+Provide simple examples
 
 ## Deployment
+
+Sample deployment can be anywhere on a server
 
 ## How To Contribute
