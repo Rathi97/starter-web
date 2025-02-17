@@ -2,6 +2,7 @@
 Simple web project for showing how to use git and github together
 ## Introduction
 This repository is for showing how Git and GitHub work
+How diff parts of git repo and commands work
 
 ## Purpose
 
