@@ -14,3 +14,7 @@ Provide simple examples
 Sample deployment can be anywhere on a server
 
 ## How To Contribute
+
+## Copyright
+
+Git.trainig 2025
