@@ -15,6 +15,8 @@ Sample deployment can be anywhere on a server
 
 ## How To Contribute
 
+pLEASE FORK THIS REPO
+
 ## Copyright
 
 Git.trainig 2025
